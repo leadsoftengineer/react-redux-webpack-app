@@ -1,0 +1,27 @@
+.trackInput, .searchInput {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: calc(10px + 2vmin);   
+    padding:3px;
+    background-color: #c8d0df;
+    color:black;
+    text-transform: lowercase;
+}
+.addTrack, .getTracks, .findTrack {
+    font-size: calc(10px + 2vmin);
+    padding:3px;
+    background-color: beige;
+    text-transform: lowercase;
+}
+.list{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #282c34;
+    min-height: 100vh;   
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: flex-start;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    text-transform: lowercase;
+}
+
